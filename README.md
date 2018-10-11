@@ -5,8 +5,11 @@
 
 >You need to install [Node.js](https://nodejs.org)  for running this web app
 
+
 ```
 cd github-battle
 npm install
 npm start 
 ```
+
+Happy Hacking
